@@ -1,2 +1,2 @@
 # python-learning
-This is for my learning journey !!
+This is for python learning journey !!
